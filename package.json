@@ -1,0 +1,33 @@
+{
+  "name": "fast-locky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "justin.bourrousse@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "redis": "^2.6.5",
+    "redis-commands": "^1.3.1",
+    "then-redis": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBustin/fast-locky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JBustin/fast-locky/issues"
+  },
+  "homepage": "https://github.com/JBustin/fast-locky#readme",
+  "description": ""
+}
